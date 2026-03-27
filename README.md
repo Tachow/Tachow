@@ -8,6 +8,7 @@
 
 
 ### 👨‍💻 About Me
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🎓 Master of IT (Cyber Security) — **Macquarie University**, Sydney *(graduating mid-2027)*
 - 🎓 Bachelor of Science (Computer Science & Engineering) — **North South University**, Dhaka *(graduated 2024)*
