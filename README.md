@@ -58,9 +58,29 @@
 
 ### 🏆 Trophies
 
+### 🏆 Trophies
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tachow&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tachow&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+```
+
+A few things that commonly cause it to break:
+
+**Username case** — the URL must match your GitHub username exactly. Yours is `Tachow` with a capital T, so make sure it's not `tachow` or `TACHOW` in the URL.
+
+**The vercel.app service is sometimes down** — if it still shows broken after fixing the username, try the backup URL:
+```
+https://github-profile-trophy.vercel.app/?username=Tachow&theme=tokyonight&no-frame=true
+```
+
+**New accounts get fewer trophies** — if you have very few commits or repos, some trophy slots will simply be empty. You can reduce `column=6` to `column=3` to avoid empty-looking gaps while your account is still growing.
+
+**Rate limiting** — GitHub README images are cached. After editing, append `?v=1` to the URL to bust the cache and force a refresh:
+```
+...&username=Tachow&theme=tokyonight&no-frame=true&no-bg=true&v=1
 
 </div>
 
