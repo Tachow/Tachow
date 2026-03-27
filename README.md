@@ -6,11 +6,12 @@
 
 </div>
 
----
+
 
 ### 👨‍💻 About Me
 
 - 🎓 Master of IT (Cyber Security) — **Macquarie University**, Sydney *(graduating mid-2027)*
+- 🎓 Bachelor of Science (Computer Science & Engineering) — **North South University**, Dhaka *(graduated 2024)*
 - 🔬 Final year project: **AI-based Anomaly Detection** system using machine learning
 - 🧠 Exploring: network security, threat analysis, and secure system design
 - 💼 3+ years of professional experience across customer service and administration
