@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanvir+Chowdhury;Cyber+Security+Student+%40+Macquarie;Python+%7C+SQL+%7C+Machine+Learning;Building+Safer+Systems)](https://github.com/Tachow)
 
-<img src="https://komarev.com/ghpvc/?username=Tachow&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
