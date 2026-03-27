@@ -67,15 +67,21 @@
 ### 🏆 Trophies
 
 
-<div align="center">
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tachow&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&rank=AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-Student-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Enthusiast-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-2EA44F?style=for-the-badge&logo=github&logoColor=white)
+![Macquarie](https://img.shields.io/badge/Macquarie_University-MIT_CyberSec-E4002B?style=for-the-badge&logo=academia&logoColor=white)
+
+
 
 </div>
 
----
 
 ### 📈 Contribution Activity
 
