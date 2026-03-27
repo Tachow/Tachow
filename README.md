@@ -79,12 +79,8 @@
 ![Macquarie](https://img.shields.io/badge/Macquarie_University-MIT_CyberSec-E4002B?style=for-the-badge&logo=academia&logoColor=white)
 
 
-
 </div>
 
-### 🏆 Achievements
-
-Check out my [GitHub Achievements](https://github.com/Tachow?tab=achievements) — updated automatically by GitHub.
 ### 📈 Contribution Activity
 
 <div align="center">
@@ -92,8 +88,6 @@ Check out my [GitHub Achievements](https://github.com/Tachow?tab=achievements) �
 [![Tanvir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tachow&theme=tokyo-night&hide_border=true)](https://github.com/Tachow)
 
 </div>
-
----
 
 <div align="center">
 
