@@ -23,8 +23,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir-ahmed-chowdhury-80350790/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](tanvirchowdhury35@gmail.com.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/BlackSkull07)
-[![Seek](https://img.shields.io/badge/Seek-00A887?style=for-the-badge&logo=seek&logoColor=white)](https://www.seek.com.au/profile/tanvir-chowdhury)
-[![Indeed](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://au.indeed.com/profile)
 
 </div>
 ---
