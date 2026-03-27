@@ -69,7 +69,10 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tachow&theme=onedark)](https://github.com/Tachow/github-profile-trophy)
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tachow&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&rank=AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
