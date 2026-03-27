@@ -82,7 +82,9 @@
 
 </div>
 
+### 🏆 Achievements
 
+Check out my [GitHub Achievements](https://github.com/Tachow?tab=achievements) — updated automatically by GitHub.
 ### 📈 Contribution Activity
 
 <div align="center">
