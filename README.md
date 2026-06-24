@@ -43,7 +43,7 @@
 |---|---|---|
 | [🧠 Brain Tumor Detection](https://github.com/Tachow/Brain-Tumor-Detection-using-MRI-Images) | CNN-based model for brain tumor segmentation using MRI images | Python, Jupyter, Deep Learning |
 | [🔐 CryptoSafe](https://github.com/Tachow/CryptoSafe) | Encryption-decryption desktop app | Java |
-| [🌐 Password-Strength-Analyser-Generator](https://github.com/Tachow/Password-Strength-Analyser-Generator) | A command-line cybersecurity tool that analyses password strength using entropy calculation, pattern detection, and real-world attack simulation — and generates cryptographically secure alternatives.|
+| [🌐 Password-Strength-Analyser-Generator](https://github.com/Tachow/Password-Strength-Analyser-Generator) | A command-line cybersecurity tool that analyses password strength using entropy calculation, pattern detection, and real-world attack simulation — and generates cryptographically secure alternatives.| Python3 | HTML
 
 ---
 
