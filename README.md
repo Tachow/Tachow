@@ -42,7 +42,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [🧠 Brain Tumor Detection](https://github.com/Tachow/Brain-Tumor-Detection-using-MRI-Images) | CNN-based model for brain tumor segmentation using MRI images | Python, Jupyter, Deep Learning |
-| [🔐 CryptoSafe](https://github.com/Tachow/CryptoSafe) | Encryption-decryption desktop app | Java |
+| [🛡 Python SIEM Log Analyser](https://github.com/Tachow/Python-SIEM-Log-Analyser) | A lightweight, zero-dependency Security Information and Event Management (SIEM) log analyser built in Python. Parses real-world Apache and SSH logs, applies a rule-based threat detection engine, and outputs a self-contained dark-mode HTML dashboard — no ELK stack required. | Python |
 | [🌐 Password-Strength-Analyser-Generator](https://github.com/Tachow/Password-Strength-Analyser-Generator) | A command-line cybersecurity tool that analyses password strength using entropy calculation, pattern detection, and real-world attack simulation — and generates cryptographically secure alternatives.| Python3, HTML 
 
 ---
