@@ -60,33 +60,21 @@
 </p>
 ---
 
-### 🏆 Trophies
+### 🎖️ Credentials & Focus
 
+[![Macquarie](https://img.shields.io/badge/Macquarie_University-MIT_Cyber_Security-E4002B?style=for-the-badge&logo=academia&logoColor=white)](https://www.mq.edu.au)
+[![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Certificate-Course_1_of_8_Done-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/verify/2HSMWB0RU7FV)
+![Google IT Support](https://img.shields.io/badge/Google-IT_Support_Certificate-34A853?style=for-the-badge&logo=google&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Intro_to_Cyber_Security-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 
+![Blue Team](https://img.shields.io/badge/Focus-SOC_Analysis-1F6FEB?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Threat Detection](https://img.shields.io/badge/Built-SIEM_Log_Analyser-2EA44F?style=for-the-badge&logo=python&logoColor=white)
+![ML Security](https://img.shields.io/badge/Interest-ML_for_Security-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pen Testing](https://img.shields.io/badge/Learning-Penetration_Testing-FF6B6B?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-<div align="center">
-
-
-
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-Student-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Enthusiast-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open_Source-Contributor-2EA44F?style=for-the-badge&logo=github&logoColor=white)
-![Macquarie](https://img.shields.io/badge/Macquarie_University-MIT_CyberSec-E4002B?style=for-the-badge&logo=academia&logoColor=white)
-
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-[![Tanvir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tachow&theme=tokyo-night&hide_border=true)](https://github.com/Tachow)
-
-</div>
 
 <div align="center">
 
 *"Security is not a product, but a process."* — Bruce Schneier
 
-</div>
+
